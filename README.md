@@ -6,3 +6,4 @@ Day 2:
     ii. Created multiple pages for the project
 Day 3:
     i. Completed all the assigned tasks.
+    ii. Created a directory for the sub pages.
